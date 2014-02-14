@@ -1,14 +1,16 @@
-
 package Repositorio;
 
 import java.util.Scanner;
 
 public class Repositorio_prueba {
 
+	    //ModificaciÃ³n por Eduardo
+	    //Blablablablabla
+
 		public static void main(String[] args) {
 
 	    Scanner teclado = new Scanner(System.in);
-	    String vocales = "aeiouáéíóúAEIOUÁÉÍÓÚ";	
+	    String vocales = "aeiouï¿½ï¿½ï¿½ï¿½ï¿½AEIOUï¿½ï¿½ï¿½ï¿½ï¿½";	
 	    
 	    System.out.print("Dime una frase: ");
 	    String frase = teclado.nextLine();
