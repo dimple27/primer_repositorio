@@ -8,7 +8,7 @@ public class Repositorio_prueba {
 	    //Blablablablabla
 
 		public static void main(String[] args) {
-
+             System.out.println("hola");
 	    Scanner teclado = new Scanner(System.in);
 	    String vocales = "aeiou�����AEIOU�����";	
 	    
