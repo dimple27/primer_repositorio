@@ -3,7 +3,7 @@ package Repositorio;
 
 import java.util.Scanner;
 
-public class Repositorio {
+public class Repositorio_prueba {
 
 		public static void main(String[] args) {
 
